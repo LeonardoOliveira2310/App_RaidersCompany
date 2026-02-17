@@ -13,9 +13,9 @@ Baixe a versão mais recente do aplicativo diretamente neste repositório:
 ## 📸 Capturas de Tela
 Confira algumas imagens do aplicativo:
 
-![Tela Inicial](ScreenShotsApp/4 - Home Page.png)
-![Menu Principal](ScreenShotsApp/2 - Área Administrativa - LISTA DE STREAMERS.png)
-![Configurações](ScreenShotsApp/1 - Painel Lateral.png)
+![Tela Inicial](ScreenShotsApp/home.png)
+![Menu Principal](ScreenShotsApp/menu.png)
+![Configurações](ScreenShotsApp/adm.png)
 
 ---
 
