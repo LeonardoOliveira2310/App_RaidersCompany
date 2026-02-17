@@ -1,7 +1,7 @@
 # App_RaidersCompany
 # 📱 Raiders Company App
 
-Aplicativo oficial da **Raiders Company**, desenvolvido para oferecer praticidade e acesso rápido às informações da empresa.
+Aplicativo oficial da **Raiders Company**, desenvolvido para oferecer melhor visibilidade para os STREAMERS que fazem parte do nosso grupo.
 
 ---
 
