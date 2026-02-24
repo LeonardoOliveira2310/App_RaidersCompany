@@ -13,9 +13,10 @@ Baixe a versão mais recente do aplicativo diretamente neste repositório:
 ## 📸 Capturas de Tela
 Confira algumas imagens do aplicativo:
 
-![Tela Inicial](ScreenShotsApp/home.png)
-![Menu Principal](ScreenShotsApp/menu.png)
-![Configurações](ScreenShotsApp/adm.png)
+| Tela Inicial | Menu Principal | Configurações |
+|--------------|----------------|---------------|
+| ![Tela Inicial](ScreenShotsApp/home.png) | ![Menu Principal](ScreenShotsApp/menu.png) | ![Configurações](ScreenShotsApp/adm.png) |
+
 
 ---
 
